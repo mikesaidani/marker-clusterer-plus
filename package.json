@@ -1,0 +1,23 @@
+{
+  "name": "marker-clusterer-plus",
+  "version": "2.1.2",
+  "description": "Clone of markerclustererplus, but works with npm out of the box",
+  "keywords": [
+    "google-marker-clusterer-plus",
+    "google",
+    "maps",
+    "cluster",
+    "clusterer",
+    "map"
+  ],
+  "main": "src/markerclusterer.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/frostwind/marker-clusterer-plus"
+  },
+  "author": "frostwind <hi@frostwind.me> (http://www.frostwind.me/)",
+  "bugs": {
+    "url": "https://github.com/frostwind/marker-clusterer-plus/issues"
+  },
+  "homepage": "https://github.com/frostwind/marker-clusterer-plus"
+}
