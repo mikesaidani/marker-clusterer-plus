@@ -1,6 +1,6 @@
 {
   "name": "marker-clusterer-plus",
-  "version": "2.1.2",
+  "version": "2.1.3",
   "description": "Clone of markerclustererplus, but works with npm out of the box",
   "keywords": [
     "google-marker-clusterer-plus",
