@@ -800,9 +800,15 @@ MarkerClusterer.prototype.setupStyles_ = function () {
   }
 
   for (i = 0; i < this.imageSizes_.length; i++) {
+    var url;
+    if(Object.prototype.toString.call(this.imagePath_) === '[object Array]') {
+      url = this.imagePath_[i]
+    } else {
+      url = this.imagePath_ + (i + 1) + "." + this.imageExtension_
+    }
     size = this.imageSizes_[i];
     this.styles_.push({
-      url: this.imagePath_ + (i + 1) + "." + this.imageExtension_,
+      url: url,
       height: size,
       width: size
     });
