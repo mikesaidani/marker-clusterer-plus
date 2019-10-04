@@ -1611,7 +1611,7 @@ MarkerClusterer.BATCH_SIZE_IE = 500;
  * @type {string}
  * @constant
  */
-MarkerClusterer.IMAGE_PATH = "https://raw.githubusercontent.com/googlemaps/v3-utility-library/master/markerclustererplus/images/m";
+MarkerClusterer.IMAGE_PATH = "https://github.com/googlemaps/v3-utility-library/raw/bd55f49fc8492207d30e179d280c00aa8b5016e0/markerclusterer/images/m";
 
 
 /**
