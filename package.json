@@ -2,6 +2,7 @@
   "name": "marker-clusterer-plus",
   "version": "2.1.4",
   "description": "Clone of markerclustererplus, but works with npm out of the box",
+  "license": "Apache-2.0",
   "keywords": [
     "google-marker-clusterer-plus",
     "google",
